@@ -1,3 +1,3 @@
-# lehnurr-website
+# Sourcecode of the Team Lehnurr website
 
-## [Release](http://spe-ed.lehnurr.de/)
+[spe-ed.lehnurr.de](http://spe-ed.lehnurr.de/)
